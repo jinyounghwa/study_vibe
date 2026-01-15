@@ -833,7 +833,7 @@ Result: 월 30시간 × $100 = $3,000 비용 절감
 
 - 🐛 버그 보고: [GitHub Issues](https://github.com/jinyounghwa/study_vibe/issues)
 - 💡 제안: [GitHub Discussions](https://github.com/jinyounghwa/study_vibe/discussions)
-- 📧 이메일 문의: [프로젝트 연락처]
+- 📧 이메일 문의: timotolkie@gmail.com
 - 📖 문서 개선: Pull Request 환영합니다
 
 ---
